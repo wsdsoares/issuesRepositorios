@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Nome do Projeto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Gerenciador de Issues
 
-## Available Scripts
+## Descrição do Projeto
 
-In the project directory, you can run:
+<p align="center">O projeto em questão, busca apresentar informações das Issues de cada projeto do GitHub, estando o mesmo interligado à API do próprio GitHub.<br/> <br/> Após a inserção de um projeto público, é possível visualizar de maneira simplificada as informações das issues, nos seguintes status: "TODAS", "FINALIZADAS", "ABERTAS" </p>
 
-### `npm start`
+### 🛠 Tecnologias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [React](https://pt-br.reactjs.org/)
+- [Yarn](https://yarnpkg.com)
+- [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)
 
-### `npm test`
+## Status do projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h4 align="center"> 
+	🚧  Gestão de Issues de Repositórios 🚀 Finalizada - Versão 1.0..  🚧
+</h4>
 
-### `npm run build`
+### Como utilizar o projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Clone este repositório
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+$ git clone <https://github.com/wsdsoares/issuesRepositorios>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Acesse a pasta do projeto no terminal/cmd
 
-### `npm run eject`
+$ cd issuesRepositorios
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Instale as dependências
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+$ npm install ou yarn add
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Execute a aplicação em modo de desenvolvimento
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+$ npm start ou yarn start
 
-## Learn More
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Autor
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+<a href="https://www.linkedin.com/in/wsd-williansoares/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGGEgb7s1KyGw/profile-displayphoto-shrink_800_800/0/1587343889132?e=1653523200&v=beta&t=EmRlUaT2j9oURIeiNok8ZqGO7IQol22kfp_wpDBFyDY4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Willian Soares</b></sub></a> <a href="https://www.linkedin.com/in/wsd-williansoares/" title="Linkedin">🚀</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Feito com ❤️ por Willian Soares 👋🏽 Entre em contato!
 
-### Analyzing the Bundle Size
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wsdsoares)](https://twitter.com/wsdsoares) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wsd-williansoares/)](https://www.linkedin.com/in/wsd-williansoares/)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilhaods@gmail.com)](mailto:wilhaods@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 💜 Thanks
