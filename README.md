@@ -3,7 +3,7 @@
 Gerenciador de Issues
 
 <h3 align="center">
-	<img alt="ReadMe" title="ReadMe"  src="./wsdsoares/issuesRepositorios/blob/master/outhersFiles/projeto-view.gif">
+	<img alt="ReadMe" title="ReadMe"  src="https://github.com/wsdsoares/issuesRepositorios/blob/master/outhersFiles/projeto-view.gif">
 </h3>
 
 ## Descrição do Projeto
