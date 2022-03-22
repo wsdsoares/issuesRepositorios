@@ -2,6 +2,10 @@
 
 Gerenciador de Issues
 
+<h3 align="center">
+	<img alt="ReadMe" title="ReadMe"  src="https://github.com/wsdsoares/issuesRepositorios/outhersFiles/projeto-view.gif">
+</h3>
+
 ## Descrição do Projeto
 
 <p align="center">O projeto em questão, busca apresentar informações das Issues de cada projeto do GitHub, estando o mesmo interligado à API do próprio GitHub.<br/> <br/> Após a inserção de um projeto público, é possível visualizar de maneira simplificada as informações das issues, nos seguintes status: "TODAS", "FINALIZADAS", "ABERTAS" </p>
@@ -54,6 +58,5 @@ Feito com ❤️ por Willian Soares 👋🏽 Entre em contato!
 Twitter - (https://twitter.com/wsdsoares)
 Linkedin - https://www.linkedin.com/in/wsd-williansoares/
 Gmail: wilhaods@gmail.com
-
 
 ## 💜 Thanks
