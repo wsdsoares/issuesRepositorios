@@ -51,7 +51,9 @@ $ npm start ou yarn start
 
 Feito com ❤️ por Willian Soares 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://twitter.com/wsdsoares)
+Twitter - (https://twitter.com/wsdsoares)
+Linkedin - https://www.linkedin.com/in/wsd-williansoares/
+Gmail: wilhaods@gmail.com
 
 
 ## 💜 Thanks
